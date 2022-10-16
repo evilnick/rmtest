@@ -1,0 +1,2 @@
+# rmtest
+testing rm 
