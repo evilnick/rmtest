@@ -56,13 +56,13 @@ def fetch_activity():
             e['repo']['url'].split('/')[-1:][0],
             e['repo']['url'].replace('api.github.com/repos','github.com'))
             content.append(' '.join([user,action]))
-        return('\n'.join(content))
+        return(content)
     
 
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    entries = fetch_blog_entries()[:8]
+    entries = fetch_blog_entries()[:6]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )

@@ -22,27 +22,20 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
 ### Latest activity
 
 <!-- activity starts -->
- 
--
- 
-[
-@
-a
-d
-d
-y
-e
+
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove logtostderr flag on kube* applications (#253)** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+
 <!-- activity ends -->
 
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+
 * [Canonical Presence at KubeCon + CloudNativeCon North America 2022](https://ubuntu.com//blog/canonical-presence-at-kubecon-cloudnativecon-north-america-2022) - Tue, 18 Oct 2022 14:10:09 
 * [Kubeflow at CloudExpo Madrid](https://ubuntu.com//blog/kubeflow-cloudexpo-madrid) - Tue, 18 Oct 2022 09:04:06 
 * [Meet us at Kubeflow Summit 2022](https://ubuntu.com//blog/meet-us-at-kubeflow-summit-2022) - Mon, 17 Oct 2022 10:15:04 
 * [How desktop and GPU virtualisation power up automotive innovation](https://ubuntu.com//blog/how-desktop-and-gpu-virtualisation-power-up-automotive-innovation) - Mon, 17 Oct 2022 08:40:45 
 * [The long ARM of KDE](https://ubuntu.com//blog/the-long-arm-of-kde) - Fri, 14 Oct 2022 12:54:02 
 * [Introducing a VSCode extension for Vanilla CSS Framework](https://ubuntu.com//blog/introducing-a-vscode-extension-for-vanilla-css-framework) - Fri, 14 Oct 2022 10:10:47 
-* [Hyperparameter tuning for ML models](https://ubuntu.com//blog/hyperparameter-tuning-kubeflow) - Fri, 14 Oct 2022 09:11:55 
-* [An inside look at autonomous vehicle hardware: Advantech’s ITA-460](https://ubuntu.com//blog/an-inside-look-at-autonomous-vehicle-hardware-advantechs-ita-460) - Thu, 13 Oct 2022 09:56:20 
+
 <!-- blog ends -->
