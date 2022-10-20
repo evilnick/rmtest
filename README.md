@@ -25,7 +25,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
-
  - [@evilnick](https://github.com/evilnick) has pushed the commit **fix logo link** to [charmed-kubernetes/.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1069) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Style fixes** to [charmed-kubernetes/jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -36,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/2) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/252) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **charm requires setuptools>=45.2.0 in order to install psutil** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
-
 <!-- activity ends -->
 
 ### Roadmap
