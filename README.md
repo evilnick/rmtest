@@ -25,7 +25,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
-
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Style fixes** to [charmed-kubernetes/jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Replace logo that only 50% of people can see** to [charmed-kubernetes/.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove logtostderr flag on kube* applications (#253)** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -36,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@addyess](https://github.com/addyess) has pushed the commit **charm requires setuptools>=45.2.0 in order to install psutil** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **github uses the version numbers, not names** to [charmed-kubernetes/workflows](https://github.com/charmed-kubernetes/workflows)
  - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update keepalived relations and configuration** to [charmed-kubernetes/kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
-
 <!-- activity ends -->
 
 ### Roadmap
