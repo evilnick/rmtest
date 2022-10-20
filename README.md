@@ -1,4 +1,4 @@
-![CK logo](https://assets.ubuntu.com/v1/e6cd15f7-Charmed+Kubernetes_RGB_2022.svg)
+![CK logo](https://assets.ubuntu.com/v1/5d994a18-Charmed+Kubernetes_RGB_onWhite_2022.svg)
 
 Charmed Kubernetes® is pure Kubernetes tested across the widest range of clouds with modern metrics and monitoring, brought to you by the people who deliver Ubuntu.
 
