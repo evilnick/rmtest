@@ -22,16 +22,16 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
 ### Latest activity
 
 <!-- activity starts -->
- 
--
- 
-[
-@
-a
-d
-d
-y
-e
+ - [@addyess](https://github.com/addyess) has pushed the commit **remove logtostderr flag on kube* applications (#253)** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **update the statement in wheelhouse.txt** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **run the validate-wheelhouse charm on every supported char...** to [charmed-kubernetes/workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/2) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/252) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **charm requires setuptools>=45.2.0 in order to install psutil** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@addyess](https://github.com/addyess) has pushed the commit **github uses the version numbers, not names** to [charmed-kubernetes/workflows](https://github.com/charmed-kubernetes/workflows)
+ - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update keepalived relations and configuration** to [charmed-kubernetes/kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix linting** to [charmed-kubernetes/charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/37) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
 
 ### Latest from the Ubuntu blog
@@ -43,6 +43,4 @@ e
 * [How desktop and GPU virtualisation power up automotive innovation](https://ubuntu.com//blog/how-desktop-and-gpu-virtualisation-power-up-automotive-innovation) - Mon, 17 Oct 2022 08:40:45 
 * [The long ARM of KDE](https://ubuntu.com//blog/the-long-arm-of-kde) - Fri, 14 Oct 2022 12:54:02 
 * [Introducing a VSCode extension for Vanilla CSS Framework](https://ubuntu.com//blog/introducing-a-vscode-extension-for-vanilla-css-framework) - Fri, 14 Oct 2022 10:10:47 
-* [Hyperparameter tuning for ML models](https://ubuntu.com//blog/hyperparameter-tuning-kubeflow) - Fri, 14 Oct 2022 09:11:55 
-* [An inside look at autonomous vehicle hardware: Advantech’s ITA-460](https://ubuntu.com//blog/an-inside-look-at-autonomous-vehicle-hardware-advantechs-ita-460) - Thu, 13 Oct 2022 09:56:20 
 <!-- blog ends -->
