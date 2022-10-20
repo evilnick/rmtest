@@ -71,5 +71,5 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
     activity = fetch_activity()[:10]
     activity_md = '\n'.join(activity)
-    rewritten = replace_chunk(rewritten, "activity", entries_md)
+    rewritten = replace_chunk(rewritten, "activity", activity_md)
     readme.open("w").write(rewritten)
