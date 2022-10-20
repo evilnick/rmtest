@@ -56,7 +56,7 @@ def fetch_activity():
             e['repo']['url'].split('/')[-1:][0],
             e['repo']['url'].replace('api.github.com/repos','github.com'))
             content.append(' '.join([user,action]))
-        return(content)
+    return(content)
     
 
 if __name__ == "__main__":
@@ -68,6 +68,7 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
     activity = fetch_activity()[:10]
+    print(activity)
     activity_md = '\n'.join(activity)
     rewritten = replace_chunk(rewritten, "activity", activity_md)
     readme.open("w").write(rewritten)
