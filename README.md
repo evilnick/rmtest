@@ -22,6 +22,8 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
 ### Latest activity
 
 <!-- activity starts -->
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1069) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Style fixes** to [charmed-kubernetes/jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Replace logo that only 50% of people can see** to [charmed-kubernetes/.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **remove logtostderr flag on kube* applications (#253)** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **update the statement in wheelhouse.txt** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
@@ -30,8 +32,6 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/252) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **charm requires setuptools>=45.2.0 in order to install psutil** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
  - [@addyess](https://github.com/addyess) has pushed the commit **github uses the version numbers, not names** to [charmed-kubernetes/workflows](https://github.com/charmed-kubernetes/workflows)
- - [@Cynerva](https://github.com/Cynerva) has pushed the commit **Update keepalived relations and configuration** to [charmed-kubernetes/kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix linting** to [charmed-kubernetes/charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
 <!-- activity ends -->
 
 ### Latest from the Ubuntu blog
