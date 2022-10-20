@@ -62,7 +62,7 @@ def fetch_activity():
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    entries = fetch_blog_entries()[:8]
+    entries = fetch_blog_entries()[:6]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
