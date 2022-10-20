@@ -22,7 +22,7 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has pushed the commit **remove logtostderr flag on kube* applications (#253)** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+
 <!-- activity ends -->
 
 ### Latest from the Ubuntu blog
