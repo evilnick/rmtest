@@ -10,10 +10,13 @@ Google, Microsoft, and many other institutions run Kubernetes on Ubuntu because 
 
 To learn more about **Charmed Kubernetes**®, including how to install it on your own cloud, please visit the [Documentation][docs].
 
+## Professional support
+
+Professional upport for **Charmed Kubernetes**® is covered by **Ubuntu Pro**, which doesn't just cover Kubernetes, but your entire stack - Find out more on the [Ubuntu support site](https://ubuntu.com/support).
+
 ## Contributing to Charmed Kubernetes®
 
-Charmed Kubernetes is an open source project and we welcome contributions of code, additions to the documentation, feature requests and any and all types of
-feedback. For more on contributing, see the [official documentation][get-in-touch] on how to contact the team.
+Charmed Kubernetes is an open source project and we welcome contributions of code, additions to the documentation, feature requests and any and all types of feedback. For more on contributing, see the [official documentation][get-in-touch] on how to contact the team.
 
 <!-- LINKS -->
 [docs]: https://ubuntu.com/kubernetes/docs
@@ -33,6 +36,12 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Fix linting** to [charmed-kubernetes/charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kube-ovn/pull/37) in the [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn) repository.
 <!-- activity ends -->
+
+### Roadmap
+
+Visit the public roadmap on [Trello](https://trello.com/b/Pfu4BlRO/demo-roadmap)
+
+![Latest roadmap](./test2.png)
 
 ### Latest from the Ubuntu blog
 
