@@ -10,10 +10,13 @@ Google, Microsoft, and many other institutions run Kubernetes on Ubuntu because 
 
 To learn more about **Charmed Kubernetes**®, including how to install it on your own cloud, please visit the [Documentation][docs].
 
+## Professional support
+
+Professional upport for **Charmed Kubernetes**® is covered by **Ubuntu Pro**, which doesn't just cover Kubernetes, but your entire stack - Find out more on the [Ubuntu support site](https://ubuntu.com/support).
+
 ## Contributing to Charmed Kubernetes®
 
-Charmed Kubernetes is an open source project and we welcome contributions of code, additions to the documentation, feature requests and any and all types of
-feedback. For more on contributing, see the [official documentation][get-in-touch] on how to contact the team.
+Charmed Kubernetes is an open source project and we welcome contributions of code, additions to the documentation, feature requests and any and all types of feedback. For more on contributing, see the [official documentation][get-in-touch] on how to contact the team.
 
 <!-- LINKS -->
 [docs]: https://ubuntu.com/kubernetes/docs
@@ -22,6 +25,8 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
 ### Latest activity
 
 <!-- activity starts -->
+
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **fix logo link** to [charmed-kubernetes/.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1069) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Style fixes** to [charmed-kubernetes/jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **Replace logo that only 50% of people can see** to [charmed-kubernetes/.github](https://github.com/charmed-kubernetes/.github)
@@ -31,8 +36,14 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
  - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/2) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
  - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/252) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **charm requires setuptools>=45.2.0 in order to install psutil** to [charmed-kubernetes/charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **github uses the version numbers, not names** to [charmed-kubernetes/workflows](https://github.com/charmed-kubernetes/workflows)
+
 <!-- activity ends -->
+
+### Roadmap
+
+Visit the public roadmap on [Trello](https://trello.com/b/Pfu4BlRO/demo-roadmap)
+
+![Latest roadmap](./roadmap.png)
 
 ### Latest from the Ubuntu blog
 
