@@ -48,7 +48,7 @@ def fetch_activity():
             commit_text = e['payload']['commits'][0]['message'].replace('\n',' ')
             commit_text = (commit_text[:57] + '...') if len(commit_text) > 60 else commit_text
             action = 'has pushed the commit **{}** to [{}]({})'.format(commit_text, 
-            '/'.join(e['repo']['url'].split('/')[4:]),
+            '/'.join(e['repo']['url'].split('/')[5:]),
             e['repo']['url'].replace('api.github.com/repos','github.com'))
             content.append(' '.join([user,action]))
         if e['type'] == 'PullRequestReviewEvent':
