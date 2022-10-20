@@ -19,6 +19,12 @@ feedback. For more on contributing, see the [official documentation][get-in-touc
 [docs]: https://ubuntu.com/kubernetes/docs
 [get-in-touch]: https://ubuntu.com/kubernetes/docs/get-in-touch
 
+### Latest activity
+
+<!-- activity starts -->
+
+<!-- activity ends -->
+
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
