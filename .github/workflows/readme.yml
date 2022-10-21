@@ -3,7 +3,10 @@ name: Build README
 on:
   push:
   workflow_dispatch:
-
+  schedule:
+    - cron: '36 8 * * *'
+    - cron: '36 14 * * *'
+    - cron: '36 21 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
