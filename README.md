@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **move tests to bootstrap provider repo** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Add region to cleanup aws cli calls (#1070)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@berkayoz](https://github.com/berkayoz) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1070) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
+ - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1070) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **[draft] Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **[draft] Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 ### Roadmap
