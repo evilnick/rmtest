@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@evilnick](https://github.com/evilnick) has pushed the commit **fix logo link** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1069) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Style fixes** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Replace logo that only 50% of people can see** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@addyess](https://github.com/addyess) has pushed the commit **remove logtostderr flag on kube* applications (#253)** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@addyess](https://github.com/addyess) has pushed the commit **update the statement in wheelhouse.txt** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **run the validate-wheelhouse charm on every supported char...** to [workflows](https://github.com/charmed-kubernetes/workflows)
- - [@stonepreston](https://github.com/stonepreston) has reviewed a [pull request](https://github.com/charmed-kubernetes/workflows/pull/2) in the [workflows](https://github.com/charmed-kubernetes/workflows) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane/pull/252) in the [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **charm requires setuptools>=45.2.0 in order to install psutil** to [charm-kubernetes-control-plane](https://github.com/charmed-kubernetes/charm-kubernetes-control-plane)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **[draft] Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **[draft] Start clusterapi test and release job** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
 <!-- activity ends -->
 
 ### Roadmap
@@ -46,10 +46,10 @@ Visit the public roadmap on [Trello](https://trello.com/b/Pfu4BlRO/demo-roadmap)
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
-* [Canonical Presence at KubeCon + CloudNativeCon North America 2022](https://ubuntu.com//blog/canonical-presence-at-kubecon-cloudnativecon-north-america-2022) - Tue, 18 Oct 2022 14:10:09 
-* [Kubeflow at CloudExpo Madrid](https://ubuntu.com//blog/kubeflow-cloudexpo-madrid) - Tue, 18 Oct 2022 09:04:06 
-* [Meet us at Kubeflow Summit 2022](https://ubuntu.com//blog/meet-us-at-kubeflow-summit-2022) - Mon, 17 Oct 2022 10:15:04 
-* [How desktop and GPU virtualisation power up automotive innovation](https://ubuntu.com//blog/how-desktop-and-gpu-virtualisation-power-up-automotive-innovation) - Mon, 17 Oct 2022 08:40:45 
-* [The long ARM of KDE](https://ubuntu.com//blog/the-long-arm-of-kde) - Fri, 14 Oct 2022 12:54:02 
-* [Introducing a VSCode extension for Vanilla CSS Framework](https://ubuntu.com//blog/introducing-a-vscode-extension-for-vanilla-css-framework) - Fri, 14 Oct 2022 10:10:47 
+* [What? The Steam snap is evolving!](https://ubuntu.com//blog/what-the-steam-snap-is-evolving) - Fri, 21 Oct 2022 09:06:51 
+* [What&#8217;s new in Ubuntu Desktop 22.10, Kinetic Kudu](https://ubuntu.com//blog/whats-new-in-ubuntu-desktop-22-10-kinetic-kudu) - Fri, 21 Oct 2022 09:00:13 
+* [Integrating Charmed Kubernetes with AWS via OIDC](https://ubuntu.com//blog/integrating-charmed-kubernetes-with-aws-via-oidc) - Fri, 21 Oct 2022 04:27:09 
+* [Join our Ubuntu circle](https://ubuntu.com//blog/join-our-ubuntu-circle) - Thu, 20 Oct 2022 20:00:52 
+* [Landscape beta: test the Landscape Server migration to Ubuntu 22.04 LTS](https://ubuntu.com//blog/landscape-beta-test-the-landscape-server-migration-to-ubuntu-22-04-lts) - Thu, 20 Oct 2022 14:02:25 
+* [Ubuntu 22.10 on the Raspberry Pi delivers new display support and the full MicroPython stack](https://ubuntu.com//blog/ubuntu-22-10-on-the-raspberry-pi-delivers-new-display-support-and-the-full-micropython-stack) - Thu, 20 Oct 2022 14:01:33 
 <!-- blog ends -->
