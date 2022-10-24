@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Change to stable instead of candidate, unpin juju** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Test Network Policies (#38)  * Test Network Policies  *...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Default to empty in the  config field** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
- - [@addyess](https://github.com/addyess) has pushed the commit **apply linting** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/16) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update tox.ini  Co-authored-by: Jon Seager <jon@sgrs.uk>** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.6 to 8.5.7 (#1074)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Fix tag push (#1077)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has pushed the commit **handle juju 3.0.0 strict confinement** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Run prometheus tests after multus** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Skip prometheus to see if thats interfering with multus s...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add optional input for microk8s group name (#43)  * Add o...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@stonepreston](https://github.com/stonepreston) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/42) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Rerun actions** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 ### Roadmap
