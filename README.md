@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@jnsgruk](https://github.com/jnsgruk) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **MicroK8s test and release ClusterAPI providers (#1062)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Addressing some comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1062) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1062) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1062) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1062) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1062) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
- - [@addyess](https://github.com/addyess) has pushed the commit **validation: extra-args test fails with more clarity** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Change to stable instead of candidate, unpin juju** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@addyess](https://github.com/addyess) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Test Network Policies (#38)  * Test Network Policies  *...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@mateoflorido](https://github.com/mateoflorido) has pushed the commit **Default to empty in the  config field** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
+ - [@addyess](https://github.com/addyess) has pushed the commit **apply linting** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@mateoflorido](https://github.com/mateoflorido) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-sriov-cni/pull/16) in the [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni) repository.
+ - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Update tox.ini  Co-authored-by: Jon Seager <jon@sgrs.uk>** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 ### Roadmap
