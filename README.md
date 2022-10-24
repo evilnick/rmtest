@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@jnsgruk](https://github.com/jnsgruk) has reviewed a [pull request](https://github.com/charmed-kubernetes/actions-operator/pull/43) in the [actions-operator](https://github.com/charmed-kubernetes/actions-operator) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **MicroK8s test and release ClusterAPI providers (#1062)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Addressing some comments** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@cdkbot](https://github.com/cdkbot) has pushed the commit **Conformance results for v1.25/cdk** to [k8s-conformance](https://github.com/charmed-kubernetes/k8s-conformance)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1062) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@ktsakalozos](https://github.com/ktsakalozos) has reviewed a [pull request](https://github.com/charmed-kubernetes/jenkins/pull/1062) in the [jenkins](https://github.com/charmed-kubernetes/jenkins) repository.
  - [@addyess](https://github.com/addyess) has pushed the commit **validation: extra-args test fails with more clarity** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **linting** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
 <!-- activity ends -->
 
 ### Roadmap
@@ -46,10 +46,10 @@ Visit the public roadmap on [Trello](https://trello.com/b/Pfu4BlRO/demo-roadmap)
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [What does OTA mean?](https://ubuntu.com//blog/what-does-ota-mean) - Mon, 24 Oct 2022 09:00:27 
 * [What? The Steam snap is evolving!](https://ubuntu.com//blog/what-the-steam-snap-is-evolving) - Fri, 21 Oct 2022 09:06:51 
 * [What&#8217;s new in Ubuntu Desktop 22.10, Kinetic Kudu](https://ubuntu.com//blog/whats-new-in-ubuntu-desktop-22-10-kinetic-kudu) - Fri, 21 Oct 2022 09:00:13 
 * [Integrating Charmed Kubernetes with AWS via OIDC](https://ubuntu.com//blog/integrating-charmed-kubernetes-with-aws-via-oidc) - Fri, 21 Oct 2022 04:27:09 
 * [Join our Ubuntu circle](https://ubuntu.com//blog/join-our-ubuntu-circle) - Thu, 20 Oct 2022 20:00:52 
 * [Landscape beta: test the Landscape Server migration to Ubuntu 22.04 LTS](https://ubuntu.com//blog/landscape-beta-test-the-landscape-server-migration-to-ubuntu-22-04-lts) - Thu, 20 Oct 2022 14:02:25 
-* [Ubuntu 22.10 on the Raspberry Pi delivers new display support and the full MicroPython stack](https://ubuntu.com//blog/ubuntu-22-10-on-the-raspberry-pi-delivers-new-display-support-and-the-full-micropython-stack) - Thu, 20 Oct 2022 14:01:33 
 <!-- blog ends -->
