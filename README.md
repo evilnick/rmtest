@@ -25,6 +25,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **use microk8s lxd profile from main repository (#1078)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.6 to 8.5.7 (#1074)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Skip prometheus to see if thats interfering with multus s...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add optional input for microk8s group name (#43)  * Add o...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
  - [@stonepreston](https://github.com/stonepreston) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/42) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Rerun actions** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Two approaches to IoT prototyping](https://ubuntu.com//blog/two-approaches-to-iot-prototyping) - Tue, 25 Oct 2022 12:22:36 
+* [Accelerate IT/OT convergence in Industry 4.0 [Part I]](https://ubuntu.com//blog/industry-4) - Tue, 25 Oct 2022 12:10:36 
+* [Canonical enables Ubuntu on Sipeed’s LicheeRV RISC-V board](https://ubuntu.com//blog/canonical-enables-ubuntu-on-sipeeds-licheerv-risc-v-board) - Tue, 25 Oct 2022 09:00:55 
 * [Participate in the Kubernetes and Cloud Native Operations Survey 2023](https://ubuntu.com//blog/participate-in-the-kubernetes-and-cloud-native-operations-survey-2023) - Tue, 25 Oct 2022 06:00:12 
 * [What does OTA mean?](https://ubuntu.com//blog/what-does-ota-mean) - Mon, 24 Oct 2022 09:00:27 
 * [What? The Steam snap is evolving!](https://ubuntu.com//blog/what-the-steam-snap-is-evolving) - Fri, 21 Oct 2022 09:06:51 
-* [What&#8217;s new in Ubuntu Desktop 22.10, Kinetic Kudu](https://ubuntu.com//blog/whats-new-in-ubuntu-desktop-22-10-kinetic-kudu) - Fri, 21 Oct 2022 09:00:13 
-* [Integrating Charmed Kubernetes with AWS via OIDC](https://ubuntu.com//blog/integrating-charmed-kubernetes-with-aws-via-oidc) - Fri, 21 Oct 2022 04:27:09 
-* [Join our Ubuntu circle](https://ubuntu.com//blog/join-our-ubuntu-circle) - Thu, 20 Oct 2022 20:00:52 
 <!-- blog ends -->
