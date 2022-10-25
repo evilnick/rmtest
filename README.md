@@ -37,11 +37,9 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Rerun actions** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
 <!-- activity ends -->
 
-### Roadmap
+<!-- roadmap starts -->
 
-Visit the public roadmap on [Trello](https://trello.com/b/Pfu4BlRO/demo-roadmap)
-
-![Latest roadmap](./roadmap.png)
+<!-- roadmap ends -->
 
 ### Latest from the Ubuntu blog
 
