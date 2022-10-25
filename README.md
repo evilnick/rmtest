@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Convert SR-IOV CNI charm to sidecar (#16)  * Convert SR-I...** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Convert charm to sidecar pattern (#10)  * Convert charm t...** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Scp/pod traffic mirroring (#39)  * Add global traffic mir...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Run unit and lint tests on ClusterAPI releases (#1079)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **use microk8s lxd profile from main repository (#1078)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Bump mkdocs-material from 8.5.6 to 8.5.7 (#1074)  * Bump ...** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **Update requirements.txt** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@ktsakalozos](https://github.com/ktsakalozos) has pushed the commit **Fix tag push (#1077)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@addyess](https://github.com/addyess) has pushed the commit **handle juju 3.0.0 strict confinement** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Run prometheus tests after multus** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Skip prometheus to see if thats interfering with multus s...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@stonepreston](https://github.com/stonepreston) has pushed the commit **Add optional input for microk8s group name (#43)  * Add o...** to [actions-operator](https://github.com/charmed-kubernetes/actions-operator)
- - [@stonepreston](https://github.com/stonepreston) has closed this [issue](https://github.com/charmed-kubernetes/actions-operator/issues/42) in [charmed-kubernetes/actions-operator](https://api.github.com/repos/charmed-kubernetes/actions-operator).
+ - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Run unit and lint tests on ClusterAPI releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Update keepalived relations and configuration (#729)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/729) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **Add necessary model configuration command for certain clu...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/728) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
 <!-- activity ends -->
 
 <!-- roadmap starts -->
