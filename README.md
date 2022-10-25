@@ -46,10 +46,10 @@ Visit the public roadmap on [Trello](https://trello.com/b/Pfu4BlRO/demo-roadmap)
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Participate in the Kubernetes and Cloud Native Operations Survey 2023](https://ubuntu.com//blog/participate-in-the-kubernetes-and-cloud-native-operations-survey-2023) - Tue, 25 Oct 2022 06:00:12 
 * [What does OTA mean?](https://ubuntu.com//blog/what-does-ota-mean) - Mon, 24 Oct 2022 09:00:27 
 * [What? The Steam snap is evolving!](https://ubuntu.com//blog/what-the-steam-snap-is-evolving) - Fri, 21 Oct 2022 09:06:51 
 * [What&#8217;s new in Ubuntu Desktop 22.10, Kinetic Kudu](https://ubuntu.com//blog/whats-new-in-ubuntu-desktop-22-10-kinetic-kudu) - Fri, 21 Oct 2022 09:00:13 
 * [Integrating Charmed Kubernetes with AWS via OIDC](https://ubuntu.com//blog/integrating-charmed-kubernetes-with-aws-via-oidc) - Fri, 21 Oct 2022 04:27:09 
 * [Join our Ubuntu circle](https://ubuntu.com//blog/join-our-ubuntu-circle) - Thu, 20 Oct 2022 20:00:52 
-* [Landscape beta: test the Landscape Server migration to Ubuntu 22.04 LTS](https://ubuntu.com//blog/landscape-beta-test-the-landscape-server-migration-to-ubuntu-22-04-lts) - Thu, 20 Oct 2022 14:02:25 
 <!-- blog ends -->
