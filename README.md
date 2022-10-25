@@ -25,16 +25,16 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest activity
 
 <!-- activity starts -->
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Convert SR-IOV CNI charm to sidecar (#16)  * Convert SR-I...** to [charm-sriov-cni](https://github.com/charmed-kubernetes/charm-sriov-cni)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Convert charm to sidecar pattern (#10)  * Convert charm t...** to [charm-sriov-network-device-plugin](https://github.com/charmed-kubernetes/charm-sriov-network-device-plugin)
- - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Scp/pod traffic mirroring (#39)  * Add global traffic mir...** to [charm-kube-ovn](https://github.com/charmed-kubernetes/charm-kube-ovn)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Run unit and lint tests on ClusterAPI releases (#1079)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **use microk8s lxd profile from main repository (#1078)** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@neoaggelos](https://github.com/neoaggelos) has pushed the commit **Run unit and lint tests on ClusterAPI releases** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Update keepalived relations and configuration (#729)** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/729) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
- - [@evilnick](https://github.com/evilnick) has pushed the commit **Add necessary model configuration command for certain clu...** to [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/kubernetes-docs/pull/728) in the [kubernetes-docs](https://github.com/charmed-kubernetes/kubernetes-docs) repository.
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@addyess](https://github.com/addyess) has pushed the commit **purge service accounts and service account keys** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@addyess](https://github.com/addyess) has pushed the commit **Move dynamic readme generation into the profile/ path** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/5) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@evilnick](https://github.com/evilnick) has pushed the commit **add dynamic readme** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [How we hire at Canonical](https://ubuntu.com//blog/how-we-hire-at-canonical) - Tue, 25 Oct 2022 15:50:30 
 * [Two approaches to IoT prototyping](https://ubuntu.com//blog/two-approaches-to-iot-prototyping) - Tue, 25 Oct 2022 12:22:36 
 * [Accelerate IT/OT convergence in Industry 4.0 [Part I]](https://ubuntu.com//blog/industry-4) - Tue, 25 Oct 2022 12:10:36 
 * [Canonical enables Ubuntu on Sipeed’s LicheeRV RISC-V board](https://ubuntu.com//blog/canonical-enables-ubuntu-on-sipeeds-licheerv-risc-v-board) - Tue, 25 Oct 2022 09:00:55 
 * [Participate in the Kubernetes and Cloud Native Operations Survey 2023](https://ubuntu.com//blog/participate-in-the-kubernetes-and-cloud-native-operations-survey-2023) - Tue, 25 Oct 2022 06:00:12 
 * [What does OTA mean?](https://ubuntu.com//blog/what-does-ota-mean) - Mon, 24 Oct 2022 09:00:27 
-* [What? The Steam snap is evolving!](https://ubuntu.com//blog/what-the-steam-snap-is-evolving) - Fri, 21 Oct 2022 09:06:51 
 <!-- blog ends -->
