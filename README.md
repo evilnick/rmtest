@@ -27,6 +27,7 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 <!-- activity starts -->
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **purge service accounts and service account keys** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@addyess](https://github.com/addyess) has pushed the commit **Move dynamic readme generation into the profile/ path** to [.github](https://github.com/charmed-kubernetes/.github)
@@ -34,7 +35,6 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@evilnick](https://github.com/evilnick) has pushed the commit **add dynamic readme** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
@@ -44,10 +44,10 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 ### Latest from the Ubuntu blog
 
 <!-- blog starts -->
+* [Kubeflow just applied to join CNCF &#8211; what does it mean for you?](https://ubuntu.com//blog/kubeflow-applied-join-cncf) - Wed, 26 Oct 2022 07:53:37 
+* [Charmed Kubernetes and Huawei OceanStor Dorado All-Flash storage integration verification reports](https://ubuntu.com//blog/charmed-kubernetes-and-huawei-oceanstor-dorado-all-flash-storage-integration-verification-reports) - Wed, 26 Oct 2022 07:35:17 
+* [VMware alternatives: discover open source](https://ubuntu.com//blog/vmware-alternatives) - Wed, 26 Oct 2022 07:00:56 
 * [How we hire at Canonical](https://ubuntu.com//blog/how-we-hire-at-canonical) - Tue, 25 Oct 2022 15:50:30 
 * [Two approaches to IoT prototyping](https://ubuntu.com//blog/two-approaches-to-iot-prototyping) - Tue, 25 Oct 2022 12:22:36 
 * [Accelerate IT/OT convergence in Industry 4.0 [Part I]](https://ubuntu.com//blog/industry-4) - Tue, 25 Oct 2022 12:10:36 
-* [Canonical enables Ubuntu on Sipeed’s LicheeRV RISC-V board](https://ubuntu.com//blog/canonical-enables-ubuntu-on-sipeeds-licheerv-risc-v-board) - Tue, 25 Oct 2022 09:00:55 
-* [Participate in the Kubernetes and Cloud Native Operations Survey 2023](https://ubuntu.com//blog/participate-in-the-kubernetes-and-cloud-native-operations-survey-2023) - Tue, 25 Oct 2022 06:00:12 
-* [What does OTA mean?](https://ubuntu.com//blog/what-does-ota-mean) - Mon, 24 Oct 2022 09:00:27 
 <!-- blog ends -->
