@@ -26,15 +26,15 @@ Charmed Kubernetes is an open source project and we welcome contributions of cod
 
 <!-- activity starts -->
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
+ - [@kwmonroe](https://github.com/kwmonroe) has pushed the commit **Add reboot warning if `nvidia-smi` fails. (#80)  * Add re...** to [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd)
+ - [@kwmonroe](https://github.com/kwmonroe) has reviewed a [pull request](https://github.com/charmed-kubernetes/charm-containerd/pull/80) in the [charm-containerd](https://github.com/charmed-kubernetes/charm-containerd) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update kubernetes_common.py (#37)  * Update kubernetes_co...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/37) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@addyess](https://github.com/addyess) has pushed the commit **Update lib/charms/layer/kubernetes_common.py  Co-authored...** to [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common)
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/37) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
+ - [@Cynerva](https://github.com/Cynerva) has reviewed a [pull request](https://github.com/charmed-kubernetes/layer-kubernetes-common/pull/37) in the [layer-kubernetes-common](https://github.com/charmed-kubernetes/layer-kubernetes-common) repository.
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
  - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@addyess](https://github.com/addyess) has pushed the commit **purge service accounts and service account keys** to [jenkins](https://github.com/charmed-kubernetes/jenkins)
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@addyess](https://github.com/addyess) has pushed the commit **Move dynamic readme generation into the profile/ path** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@evilnick](https://github.com/evilnick) has reviewed a [pull request](https://github.com/charmed-kubernetes/.github/pull/5) in the [.github](https://github.com/charmed-kubernetes/.github) repository.
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@github-actions](https://github.com/github-actions[bot]) has pushed the commit **Updated README** to [.github](https://github.com/charmed-kubernetes/.github)
- - [@evilnick](https://github.com/evilnick) has pushed the commit **add dynamic readme** to [.github](https://github.com/charmed-kubernetes/.github)
 <!-- activity ends -->
 
 <!-- roadmap starts -->
